@@ -23,13 +23,15 @@ Pivot Tables, Slicers, Power Query, Charts (donut, bar, combo)
 
  # Dashboard Sections
  
- **Sheet	                     What it covers
- Monthly Orders & Revenue	   Orders and revenue trend across April–June
- Revenue by City	           City-wise revenue breakdown
- Gender Wise Sales	         Revenue split by customer gender
- Category Wise Revenue	     Revenue ranked by product category
- Payment Method Analysis	   Revenue share by payment method (Cash / UPI / Net Banking)
- Delivery Status Analysis	   Order breakdown by delivery stage
-Sell-Through Rate Analysis 	 Units sold vs. stock received, by category
-Dashboard	                   All of the above combined into one interactive view**
+ **Sheet	                   -  What it covers
+ Monthly Orders & Revenue	  - Orders and revenue trend across April–June
+ Revenue by City	           - City-wise revenue breakdown
+ Gender Wise Sales	         - Revenue split by customer gender
+ Category Wise Revenue	     - Revenue ranked by product category
+ Payment Method Analysis	   - Revenue share by payment method (Cash / UPI / Net Banking)
+ Delivery Status Analysis	  - Order breakdown by delivery stage
+Sell-Through Rate Analysis 	- Units sold vs. stock received, by category
+Dashboard	                  - All of the above combined into one interactive view**
+
+# Sample Views
  
