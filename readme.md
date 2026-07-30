@@ -35,3 +35,6 @@ Dashboard	                  - All of the above combined into one interactive vie
 
 # Sample Views
  
+## 📊 Main Dashboard
+
+![Main Dashboard](screenshots/DASHBOARD.png)
