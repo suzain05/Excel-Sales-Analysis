@@ -33,8 +33,11 @@ Pivot Tables, Slicers, Power Query, Charts (donut, bar, combo)
 Sell-Through Rate Analysis 	- Units sold vs. stock received, by category
 Dashboard	                  - All of the above combined into one interactive view**
 
+
 # Sample Views
  
 ## 📊 Main Dashboard
 
 ![Main Dashboard](screenshots/DASHBOARD.png)
+
+**Fathima Suzain · Data Analytics Portfolio · 2026**
