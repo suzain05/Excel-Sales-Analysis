@@ -17,7 +17,7 @@ This is the raw sales dataset used for the analysis.
 
 ![Raw Dataset](screenshots/RAW%20DATASET%20IMAGE%201.png)
 
-# TOOLS
+# TOOLS AND TECHNOLOGIES 
 # Microsoft Excel 
 Pivot Tables, Slicers, Power Query, Charts (donut, bar, combo)
 
@@ -37,7 +37,17 @@ Dashboard	                  - All of the above combined into one interactive vie
 # Sample Views
  
 ## 📊 Main Dashboard
+The dashboard provides an interactive overview of retail sales performance across revenue, product categories, cities, payment methods, delivery status, 
+and sell-through rate.
 
 ![Main Dashboard](screenshots/DASHBOARD.png)
+
+## 📈 Key Insights
+
+- Identified the highest-performing product categories.
+- Compared revenue across multiple cities.
+- Analyzed customer payment preferences.
+- Evaluated delivery status performance.
+- Measured sell-through rate to assess inventory movement.
 
 **Fathima Suzain · Data Analytics Portfolio · 2026**
