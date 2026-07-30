@@ -11,6 +11,8 @@ Identify which product categories and cities drive the most revenue, understand 
 
  **Due to company data privacy policy, only a limited 3-month window with a fixed set of price tiers was shared for this analysis, rather than the full product catalog and pricing history.**
 
-## Raw Data
+## Raw Dataset
 
-![RAW DATASET IMAGE 1](screenshots/raw_data.png)
+This is the raw sales dataset used for the analysis.
+
+![Raw Dataset](screenshots/RAW%20DATASET%20IMAGE%201.png)
