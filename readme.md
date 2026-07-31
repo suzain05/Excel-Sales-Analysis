@@ -51,4 +51,8 @@ and sell-through rate.
 - **UPI** was the dominant payment method among customers
 - **Floral-Dress, Cotton-Kurti, and Denim-Jacket** recorded the highest sell-through rate (60%), while **FormalShirt** had the lowest (21.73%) — suggesting stronger customer demand for ethnic and casual wear over formal wear
 
+  ## Related Project
+  
+This same dataset is also analyzed in a SQL portfolio project using MySQL — covering the same 3-month window with 30 queries from basic filtering to window functions and CTEs.
+
 **Fathima Suzain · Data Analytics Portfolio · 2026**
