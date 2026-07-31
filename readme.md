@@ -43,6 +43,24 @@ and sell-through rate.
 
 ![Main Dashboard](screenshots/DASHBOARD.png)
 
+
+## 📝 Business Questions Solved
+
+ ## 📝 Business Questions Solved
+
+- Total Revenue Analysis
+- Revenue by Category
+- Revenue by City
+- Monthly Sales Analysis
+- Top 5 Categories by Revenue
+- Payment Method Analysis
+- Customer Rating Analysis
+- Delivery Status Analysis
+- Units Sold Analysis
+- Sell-Through Rate Analysis
+- Interactive Dashboard with Slicers
+- KPI Summary and Sales Insight
+- 
 ## 📈 Key Insights
 
 - **Saree** emerged as the top-performing category, driving the highest share of revenue
