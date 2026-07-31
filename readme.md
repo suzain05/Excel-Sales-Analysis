@@ -46,8 +46,6 @@ and sell-through rate.
 
 ## 📝 Business Questions Solved
 
- ## 📝 Business Questions Solved
-
 - Total Revenue Analysis
 - Revenue by Category
 - Revenue by City
@@ -60,7 +58,7 @@ and sell-through rate.
 - Sell-Through Rate Analysis
 - Interactive Dashboard with Slicers
 - KPI Summary and Sales Insight
-- 
+
 ## 📈 Key Insights
 
 - **Saree** emerged as the top-performing category, driving the highest share of revenue
