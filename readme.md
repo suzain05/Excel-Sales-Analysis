@@ -44,11 +44,10 @@ and sell-through rate.
 ![Main Dashboard](screenshots/DASHBOARD.png)
 
 ## 📈 Key Insights
-
-- Identified the highest-performing product categories.
-- Compared revenue across multiple cities.
-- Analyzed customer payment preferences.
-- Evaluated delivery status performance.
-- Measured sell-through rate to assess inventory movement.
+ -Saree emerged as the top-performing category, driving the highest share of revenue
+ -Chennai led all cities in revenue, followed by Bangalore and Mumbai
+ -Generated ₹6,61,472 in total revenue across 140 orders (avg order value ₹4,725)
+ -UPI was the dominant payment method among customers
+ -[sell-through insight — what did you actually find? highest or lowest sell-through category?]
 
 **Fathima Suzain · Data Analytics Portfolio · 2026**
