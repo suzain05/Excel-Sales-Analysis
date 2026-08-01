@@ -69,6 +69,6 @@ and sell-through rate.
 
   ## Related Project
   
-This same dataset is also analyzed in a SQL portfolio project using MySQL — covering the same 3-month window with 30 queries from basic filtering to window functions and CTEs.
+This same dataset is also analyzed in a SQL portfolio project using MySQL covering the same 3-month window with 30 queries from basic filtering to window functions and CTEs.
 
 **Fathima Suzain · Data Analytics Portfolio · 2026**
