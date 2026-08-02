@@ -25,7 +25,7 @@ This is the raw sales dataset used for the analysis.
 ![Processed Dataset](https://raw.githubusercontent.com/suzain05/Excel-Sales-Analysis/main/screenshots/PROCESSED_DATA%20IMAGE%201.png)
 ![Processed Dataset](https://raw.githubusercontent.com/suzain05/Excel-Sales-Analysis/main/screenshots/PROCESSED_DATA%20IMAGE%202.png)
 
-*Cleaned data ready for analysis — removed duplicates/blanks, standardized formats, and structured for pivot tables.*
+*Cleaned data ready for analysis : removed duplicates/blanks, standardized formats, and structured for pivot tables.*
 
 # TOOLS AND TECHNOLOGIES 
 # Microsoft Excel 
@@ -47,7 +47,7 @@ Dashboard	                  - All of the above combined into one interactive vie
 # Sample Views
  
 ## 📊 Main Dashboard
-The dashboard provides an interactive overview of retail sales performance across revenue, product categories, cities, payment methods, delivery status, 
+The dashboard provides an interactive overview of retail sales performance across revenue, product categories, cities, payment methods, delivery status
 and sell-through rate.
 
 ![Main Dashboard](screenshots/DASHBOARD.png)
@@ -74,7 +74,7 @@ and sell-through rate.
 - **Chennai** led all cities in revenue, followed by Bangalore and Mumbai
 - Generated **₹6,61,472** in total revenue across **140 orders** (avg order value ₹4,725)
 - **UPI** was the dominant payment method among customers
-- **Floral-Dress, Cotton-Kurti, and Denim-Jacket** recorded the highest sell-through rate (60%), while **FormalShirt** had the lowest (21.73%) — suggesting stronger customer demand for ethnic and casual wear over formal wear
+- **Floral-Dress, Cotton-Kurti, and Denim-Jacket** recorded the highest sell-through rate (60%), while **FormalShirt** had the lowest (21.73%)  suggesting stronger customer demand for ethnic and casual wear over formal wear
 
   ## Related Project
   
