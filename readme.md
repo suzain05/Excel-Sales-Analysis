@@ -18,6 +18,15 @@ This is the raw sales dataset used for the analysis.
 
 ![Raw Dataset](screenshots/RAW%20DATASET%20IMAGE%201.png)
 
+# processed data
+
+**The dataset after cleaning and processing**
+
+![Processed Dataset](https://raw.githubusercontent.com/suzain05/Excel-Sales-Analysis/main/screenshots/PROCESSED_DATA%20IMAGE%201.png)
+![Processed Dataset](https://raw.githubusercontent.com/suzain05/Excel-Sales-Analysis/main/screenshots/PROCESSED_DATA%20IMAGE%202.png)
+
+*Cleaned data ready for analysis — removed duplicates/blanks, standardized formats, and structured for pivot tables.*
+
 # TOOLS AND TECHNOLOGIES 
 # Microsoft Excel 
 Pivot Tables, Slicers, Power Query, Charts (donut, bar, combo)
