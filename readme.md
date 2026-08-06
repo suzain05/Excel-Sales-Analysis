@@ -75,6 +75,32 @@ and sell-through rate.
 - **UPI** was the dominant payment method among customers
 - **Floral-Dress, Cotton-Kurti, and Denim-Jacket** recorded the highest sell-through rate (60%), while **FormalShirt** had the lowest (21.73%)  suggesting stronger customer demand for ethnic and casual wear over formal wear
 
+
+## 🛠 Excel Functions Used
+
+- SUM
+- SUMIFS
+- COUNTIF / COUNTIFS
+- IF
+- XLOOKUP (or VLOOKUP if applicable)
+- INDEX & MATCH (if used)
+- TEXT
+- DATE Functions
+- Pivot Tables
+- Pivot Charts
+- Conditional Formatting
+
+  ## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Validation
+- Data Analysis
+- Pivot Tables
+- Pivot Charts
+- KPI Reporting
+- Dashboard Design
+- Business Insights
+
   ## Related Project
   
 This same dataset is also analyzed in a SQL portfolio project using MySQL covering the same 3-month window with 30 queries from basic filtering to window functions and CTEs.
